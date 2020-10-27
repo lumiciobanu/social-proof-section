@@ -230,6 +230,7 @@ a {
   border-radius: 8px;
   margin-bottom: 1em;
   padding: 1em;
+  height: 16em;
 }
 
 .social__cardimage {
@@ -273,6 +274,7 @@ a {
 
 @media screen and (min-width: 1024px) {
   .social__card--second {
+    margin-top: 2em;
     margin-left: 0.5em;
     margin-right: 0.5em;
   }
@@ -281,6 +283,7 @@ a {
 @media screen and (min-width: 1024px) {
   .social__card--third {
     margin-left: 0.5em;
+    margin-top: 4em;
   }
 }
 /*# sourceMappingURL=style.css.map */
